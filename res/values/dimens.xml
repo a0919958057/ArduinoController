@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="main_layout_padding">10pt</dimen>
+    <dimen name="inner_layout_margins">4pt</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textview_bt_name">10pt</dimen>
+    <dimen name="itemview_padding">4pt</dimen>
+
+</resources>

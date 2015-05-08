@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArduinoController</string>
+    <string name="direct_controller">方向控制</string>
+    <string name="button_forward">前</string>
+    <string name="button_left">左</string>
+    <string name="button_right">右</string>
+    <string name="button_back">後</string>
+    <string name="power_controller">動力調整</string>
+    <string name="height_controller">高度控制</string>
+
+    <string-array name="dialog_status">
+        <item>找不到藍芽裝置</item>
+        <item>藍芽裝置尚未啟用</item>
+    </string-array>
+
+    <string name="action_search">搜尋</string>
+    <string name="button_bt_cancel">取消</string>
+    <string name="button_bt_enable">啟用</string>
+    <string name="button_bt_ok">確定</string>
+    <string name="title_activity_bluetooth">目標藍芽配對</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_bt_connect">已配對</string>
+    <string name="button_bt_pair">未配對</string>
+    <string name="action_bt_activity">藍芽配對</string>
+    <string name="textview_paired">已配對裝置清單</string>
+    <string name="action_bt_search">搜尋藍芽裝置</string>
+    <string name="select_device">選擇裝置</string>
+    <string name="none_found">沒有找到裝置</string>
+    <string name="scanning">掃描中</string>
+    <string name="textview_unpair">未配對裝置清單</string>
+    <string name="bt_paired">已配對藍芽裝置</string>
+    <string name="bt_unpaired">未配對藍芽裝置</string>
+    <string name="title_connected_to">已連接到</string>
+    <string name="title_connecting">嘗試連接至</string>
+    <string name="title_not_connected">尚未連接至</string>
+    <string name="dialog_info">這套軟體將需要使用您的藍芽\n藉由藍芽無線裝置與其他手機\n裝置連接。</string>
+    <string name="device_name">裝置名稱</string>
+    <string name="device_mac">裝置MAC位置</string>
+    <string name="connect_fail">無法連接至裝置</string>
+    <string name="clear_all_dot">清除所有點點</string>
+
+</resources>
